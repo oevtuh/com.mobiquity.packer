@@ -5,8 +5,6 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.mobiquity.packer", "com.mobiquity.packer\com.mobiquity.packer.csproj", "{61CA96EF-E61C-4712-A3A5-3F4E3BA62AD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{2D7A8EB0-6111-443C-832B-01BD46FF1889}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.mobiquity.packer.Tests", "com.mobiquity.packer.Tests\com.mobiquity.packer.Tests.csproj", "{033EFB52-B65D-44DB-B92B-7EBCBBB872E1}"
 EndProject
 Global
